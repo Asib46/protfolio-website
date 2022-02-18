@@ -36,3 +36,48 @@ span{
 .write{
     margin-top: 7%;
 }
+.new-height{
+    height: 500px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgba(55, 0, 255, 0.568),rgba(53, 156, 240, 0.651));
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.box{
+    margin-left: 5%;
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 260px;
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+.first-box{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#box{
+    height: 300px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.khalid{
+    width: 600px;
+    margin-left: 21%;
+    margin-bottom: 1%;
+}
+.last{
+    text-align: center;
+    color: black;
+}
